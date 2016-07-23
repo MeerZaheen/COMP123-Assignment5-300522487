@@ -1,0 +1,5 @@
+﻿Meer, Zaheen, 100, The Science of Superheroes, A+
+Judge, Dredd, 101, The Science of Harry Potter, A+
+Reed, Richards, 102, The Amazing World of Bubbles, A+
+Honah, Hex, 103, The Strategy of Starcraft, A+
+Dick, Grayson, 104, Street-Fighting Mathematics, A+
